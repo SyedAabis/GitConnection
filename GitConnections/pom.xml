@@ -10,6 +10,8 @@
   <description>GitConnections</description>
   <modules>
     <module>GitConnections_ESB</module>
+    <module>GitConnections_ESB</module>
+    <module>GitConnections_CAR</module>
   </modules>
   <scm>
     <connection>scm:git:https://github.com/username/repository.git</connection>
